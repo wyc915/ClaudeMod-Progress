@@ -1,0 +1,10 @@
+{
+  "name": "progress-band",
+  "version": "0.1.0",
+  "description": "輸入框上方顯示目前執行項目、任務進度百分比與預估剩餘時間",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "wyc915"
+  }
+}

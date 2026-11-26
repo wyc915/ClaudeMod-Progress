@@ -1,0 +1,13 @@
+{
+  "name": "claudemod-progress",
+  "owner": {
+    "name": "wyc915"
+  },
+  "plugins": [
+    {
+      "name": "progress-band",
+      "source": "./"
+    }
+  ],
+  "description": "Claude Code 進度列 mod"
+}
